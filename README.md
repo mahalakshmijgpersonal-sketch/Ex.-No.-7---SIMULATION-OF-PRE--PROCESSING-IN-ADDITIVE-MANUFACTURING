@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/4a84f066-752a-4220-a523-7f178ffc1a33)
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/3549eee1-b960-4f78-8975-f51818baec22)
+
+
+### Name: Mahalakshmi J
+### Register Number: 212225230162
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
